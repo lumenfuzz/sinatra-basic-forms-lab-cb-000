@@ -10,7 +10,7 @@ class App < Sinatra::Base
     erb :new
   end
 
-  post '/' do
+  post '/puppy' do
 
   end
 
